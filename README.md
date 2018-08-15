@@ -17,13 +17,13 @@ provided by PacBio.
 No support for source builds.
 No support via mail to developers.
 
-### [Long Amplicon Analysis](doc/PBLAA.md)
+### [Long Amplicon Analysis](PBLAA.md)
 
 `laa` takes a random subset of reads, filtered according to user-adjustable
  parameters, and attempts to generated a high-quality phased consensus sequence
  corresponding to each unique species of molecule present. More information available [here](doc/PBLAA.md).
 
-### [Long Amplicon Analysis with Guided Clustering](doc/PBLAA.md)
+### [Long Amplicon Analysis with Guided Clustering](PBLAA.md)
 
 `laagc` performs the same procedure as LAA, but utilizes a preliminary
  "pre-clustering" step to group reads according to their similarity to a list
