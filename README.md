@@ -21,14 +21,14 @@ No support via mail to developers.
 
 `laa` takes a random subset of reads, filtered according to user-adjustable
  parameters, and attempts to generated a high-quality phased consensus sequence
- corresponding to each unique species of molecule present. More information available [here](doc/PBLAA.md).
+ corresponding to each unique species of molecule present. More information available [here](PBLAA.md).
 
 ### [Long Amplicon Analysis with Guided Clustering](PBLAA.md)
 
 `laagc` performs the same procedure as LAA, but utilizes a preliminary
  "pre-clustering" step to group reads according to their similarity to a list
  of user-supplied sequences, enabling faster, higher quality results from
- more complex samples than regular Long Amplicon Analysis. More information available [here](doc/PBLAA.md).
+ more complex samples than regular Long Amplicon Analysis. More information available [here](PBLAA.md).
 
 ## Help
 
