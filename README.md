@@ -1,21 +1,13 @@
+<h1 align="center"><img src="http://www.pacb.com/wp-content/themes/pacific-biosciences/img/pacific-biosciences-logo-mobile.svg"/></h1>
 <h1 align="center">Long Amplicon Analysis</h1>
 <p align="center">C++ applications to generate high-quality, phased consensus sequences from pooled amplicons</p>
 
 ***
 ## Availability
-The latest pre-release, developers-only linux binaries can be installed via [bioconda](https://bioconda.github.io/).
+Latest version can be installed via bioconda package `pblaa`.
 
-    conda install pblaa
-
-These binaries are not ISO compliant.
-For research only.
-Not for use in diagnostics procedures.
-
-Official support is only provided for official and stable
-[SMRT Analysis builds](http://www.pacb.com/products-and-services/analytical-software/)
-provided by PacBio.
-No support for source builds.
-No support via mail to developers.
+Please refer to our [official pbbioconda page](https://github.com/PacificBiosciences/pbbioconda)
+for information on Installation, Support, License, Copyright, and Disclaimer.
 
 ### [Long Amplicon Analysis](PBLAA.md)
 
