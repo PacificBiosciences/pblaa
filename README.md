@@ -1,4 +1,3 @@
-<h1 align="center"><img src="http://www.pacb.com/wp-content/themes/pacific-biosciences/img/pacific-biosciences-logo-mobile.svg"/></h1>
 <h1 align="center">Long Amplicon Analysis</h1>
 <p align="center">C++ applications to generate high-quality, phased consensus sequences from pooled amplicons</p>
 
